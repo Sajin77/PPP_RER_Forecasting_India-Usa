@@ -26,7 +26,7 @@ This project investigates the validity of Purchasing Power Parity (PPP) between 
 
 ---
 
-** Files in this Repository **
+### Files in this Repository
 - `PPP_RER_Forecasting_India-USA.ipynb` – Jupyter notebooks with full analysis
 - `PPP_RER_Forecasting_India-USA.pdf` – Final academic report
 - `README.md` – Project overview
