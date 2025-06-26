@@ -33,5 +33,5 @@ This project investigates the validity of Purchasing Power Parity (PPP) between 
 
 ---
 
-💡 Feel free to fork, explore, and contribute!
+<i>Feel free to fork, explore, and contribute!</i>
 
